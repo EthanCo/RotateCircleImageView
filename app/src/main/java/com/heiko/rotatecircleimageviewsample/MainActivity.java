@@ -37,9 +37,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         Glide.with(MainActivity.this)
-                //.load(R.drawable.img_test)
                 .load("http://n.sinaimg.cn/tech/crawl/20171110/N_yZ-fynstfh3220635.jpg")
-                //.apply((new RequestOptions()).centerCrop())
                 .into(imgRotateCircle);
     }
 }
