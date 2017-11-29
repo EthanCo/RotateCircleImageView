@@ -36,7 +36,7 @@ xml中添加
 
 	imgRotateCircle.startRotate(); //开始旋转
 	imgRotateCircle.pauseRotate(); //暂停旋转  
-    imgRotateCircle.pauseRotate(); //取消选择动画
+    imgRotateCircle.cancelRotate(); //取消选择动画
 	imgRotateCircle.reStartRotate(); //重新开始旋转动画
 
 ### 支持的自定义参数
