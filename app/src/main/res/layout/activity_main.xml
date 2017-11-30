@@ -11,7 +11,7 @@
         android:layout_margin="20dp"
         android:id="@+id/img_rotate_circle"
         android:src="@mipmap/ic_launcher"
-        app:rotate_duration="1200"
+        app:rotate_duration="12000"
         app:civ_border_width="2dp"
         app:civ_border_color="#FF000000"
         android:layout_width="200dp"

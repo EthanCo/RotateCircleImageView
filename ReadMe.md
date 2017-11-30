@@ -1,6 +1,8 @@
 ## RotateCircleImageView
 旋转的圆形ImageView，继承自[CircleImageView](https://github.com/hdodenhof/CircleImageView)  
 
+![RotateCircleImageView](http://oqk78xit2.bkt.clouddn.com/RotateCircleImageView.gif)
+
 ### 依赖  
 
 #### Step 1. Add the JitPack repository to your build file  
